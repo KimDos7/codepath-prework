@@ -25,10 +25,10 @@ class ViewController: UIViewController {
     }
     
     @IBAction func GoodBye(_ sender: Any) {
-        TextLabel.text = "GoodBye!"
+        TextLabel.text = "GoodBye 👋"
     }
     @IBAction func Default(_ sender: Any) {
-        TextLabel.text = "Hello World!"
+        TextLabel.text = "Hello from Alex!"
         TextLabel.textColor = UIColor.black
         BackgroundView.backgroundColor = UIColor.white
     }

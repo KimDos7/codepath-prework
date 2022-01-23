@@ -20,8 +20,8 @@
                                 <rect key="frame" x="86" y="149" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hello World!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Dm-HP-eMO">
-                                        <rect key="frame" x="74" y="54" width="93" height="21"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hello from Alex!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Dm-HP-eMO">
+                                        <rect key="frame" x="60" y="54" width="121" height="21"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
@@ -47,7 +47,7 @@
                                 <rect key="frame" x="78" y="589" width="258" height="57"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Change Background Color To Brown">
+                                <buttonConfiguration key="configuration" style="plain" title="Change Background Color ">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" systemColor="labelColor"/>
                                     </backgroundConfiguration>
@@ -58,10 +58,10 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Ei-Cv-1vx">
-                                <rect key="frame" x="120" y="444" width="173" height="52"/>
+                                <rect key="frame" x="118" y="444" width="177" height="52"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Goodbye!">
+                                <buttonConfiguration key="configuration" style="plain" title="Change to Goodbye 👋">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" systemColor="labelColor"/>
                                     </backgroundConfiguration>
@@ -100,7 +100,7 @@
                                 <rect key="frame" x="110" y="796" width="173" height="52"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Change Text!">
+                                <buttonConfiguration key="configuration" style="plain" title="Change text string">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" systemColor="labelColor"/>
                                     </backgroundConfiguration>
