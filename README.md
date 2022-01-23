@@ -2,12 +2,10 @@
 
 ### App Description
 This app changes the text, its background, its color, etc based on corresponding button presses and textfield inputs. 
-`TODO://` Add app description
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://media0.giphy.com/media/Wu8XWSzPw11ObocQdC/giphy.gif?cid=790b76112951db84968f16596782300f0bc909333f89b6c4&rid=giphy.gif&ct=g" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
